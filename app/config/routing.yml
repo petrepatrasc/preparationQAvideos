@@ -1,0 +1,4 @@
+petre_calculator:
+    resource: "@PetreCalculatorBundle/Resources/config/routing.yml"
+    prefix:   /
+

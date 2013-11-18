@@ -1,0 +1,7 @@
+parameters:
+#    petre_calculator.example.class: Petre\CalculatorBundle\Example
+
+services:
+#    petre_calculator.example:
+#        class: %petre_calculator.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
